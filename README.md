@@ -18,7 +18,7 @@ The demo renders a team roster that starts in a loading state, holds the skeleto
 
 ## 📺 Watch on YouTube
 
-[![Watch on YouTube](https://img.shields.io/badge/YouTube-Watch%20the%20Tutorial-red?style=for-the-badge&logo=youtube)](https://youtube.com/watch?v=PLACEHOLDER)
+[![Watch on YouTube](https://img.shields.io/badge/YouTube-Watch%20the%20Tutorial-red?style=for-the-badge&logo=youtube)](https://youtu.be/u2n62-Hwvlo)
 
 > This project was built for the [NoahDoesCoding YouTube channel](https://www.youtube.com/@NoahDoesCoding).
 
@@ -64,4 +64,4 @@ Under the same tab, set **Bundle Identifier** to something unique, e.g. `com.you
 
 ---
 
-📺 [Watch the guide on YouTube](https://youtube.com/watch?v=PLACEHOLDER)
+📺 [Watch the guide on YouTube](https://youtu.be/u2n62-Hwvlo)
